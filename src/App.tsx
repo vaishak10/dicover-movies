@@ -1,14 +1,7 @@
-import React from 'react';
-import './App.css';
-
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        QuillBot
-      </header>
-    </div>
-  );
+    return(
+        <div>QuillBot assignment</div>
+    )
 }
 
 export default App;
